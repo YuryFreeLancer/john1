@@ -1,2 +1,3 @@
-# john1
+# About
+https://yuryfreelancer.github.io/john1/
 Джон
